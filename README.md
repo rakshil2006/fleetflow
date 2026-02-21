@@ -243,6 +243,12 @@ MIT License - see LICENSE file for details
 
 Created as a full-stack fleet management system demonstration project.
 
+TEAM:
+Rakshil Gajjar
+Krish Anand
+Aniket Sonkusare
+Mohit Gupta
+
 ## 🙏 Acknowledgments
 
 - Built with modern web technologies
