@@ -59,7 +59,7 @@ See [SETUP.md](SETUP.md) for detailed installation instructions.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rakshil2006/fleetflow
 cd fleetflow
 ```
 
